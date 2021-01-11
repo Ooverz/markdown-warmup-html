@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Arial;
+	margin: 2em;
+}
+
+#ital {
+	font-style: italic;
+	text-align: center;
+}
+
+#me {
+	text-align: center;
+}
+
+table {
+	border: solid 1px white;
+	margin : 2em;
+	display: inline-table;
+}
+
+table td{
+	border : solid 1px white;
+}
+
+#lien{
+	display : flex;
+	margin-left : 5em;
+	justify-content: space-between;
+	margin: auto;
+}
